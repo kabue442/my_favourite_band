@@ -1,0 +1,17 @@
+body{
+background-color:greenyellow
+
+}
+header{
+    background-color: rgba(0, 128, 0, 0.671);
+    text-align: center;
+    height: 300px;
+    width: 200px;
+    object-fit: cover;
+
+}
+band_members{
+    background-color: tan;
+    color: violet;
+    text-decoration: thistle;
+}
